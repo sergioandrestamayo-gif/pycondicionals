@@ -1,1 +1,1 @@
-Libreria pycondicionals mas informacion en el archivo
+Libreria pycondicionals algunas ideas en las que estoy pensando para nuevas versiones
